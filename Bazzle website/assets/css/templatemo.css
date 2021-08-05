@@ -45,7 +45,7 @@ a {
   width: 150px;
   display: block;
   position: absolute;
-  border-bottom: 5px solid #fa6b5b;
+  border-bottom: 5px solid #d3b282;
   padding-top: 0.5em;
 }
 .typo-space-line-center::after {
@@ -70,7 +70,7 @@ a {
 }
 #index_banner .carousel-control-prev i,
 #index_banner .carousel-control-next i {
-  color: #fa6b5b !important;
+  color: #eadac3 !important;
   text-decoration: none;
   font-size: 4em;
 }
@@ -79,7 +79,7 @@ a {
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {
-  background-color: #fa6b5b !important;
+  background-color: #eadac3 !important;
 }
 .service-wrapper .service-footer {
   max-width: 720px;
