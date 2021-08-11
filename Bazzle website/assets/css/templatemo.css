@@ -117,9 +117,9 @@ a {
   background: rgb(255, 255, 255);
   background: linear-gradient(
     0deg,
-    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 0%,
     rgba(255, 255, 255, 0) 33.333%,
-    rgba(250, 107, 91, 1) 66.666%,
+    rgba(250, 107, 91, 0) 66.666%,
     rgba(255, 255, 255, 0) 99.999%
   );
   background-size: 300% 300%;

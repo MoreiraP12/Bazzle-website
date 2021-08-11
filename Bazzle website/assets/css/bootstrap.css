@@ -3899,7 +3899,7 @@ fieldset:disabled .btn {
 .btn-secondary.active,
 .show > .btn-secondary.dropdown-toggle {
   color: #000;
-  background-color:  #f89185;
+  background-color: #f89185;
   border-color: #fa6b5b;
 }
 

@@ -6799,7 +6799,7 @@ fieldset:disabled .btn {
   -ms-flex-align: end !important;
   align-items: flex-end !important;
 }
-.align-items-center {
+.align-items-lg-center {
   -webkit-box-align: center !important;
   -ms-flex-align: center !important;
   align-items: center !important;
