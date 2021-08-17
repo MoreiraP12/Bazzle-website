@@ -3835,8 +3835,8 @@ fieldset:disabled .btn {
   color: #f6f9fe;
   background-color: #de8d56;
   border-color: #8a8a8a;
-  -webkit-box-shadow: 0 0 0 0.25rem rgba(93, 80, 203, 0.5);
-  box-shadow: 0 0 0 0.25rem rgba(93, 80, 203, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgb(255, 255, 255);
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5);
 }
 
 /* line 44, src/assets/scss/mixins/_buttons.scss */
@@ -3888,8 +3888,8 @@ fieldset:disabled .btn {
   color: #000;
   background-color: #f89185;
   border-color: #fa6b5b;
-  -webkit-box-shadow: 0 0 0 0.25rem rgba(83, 87, 199, 0.5);
-  box-shadow: 0 0 0 0.25rem rgba(83, 87, 199, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(248, 205, 87, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(248, 205, 87, 0.5);
 }
 
 /* line 44, src/assets/scss/mixins/_buttons.scss */
@@ -3909,8 +3909,8 @@ fieldset:disabled .btn {
 .btn-secondary:active:focus,
 .btn-secondary.active:focus,
 .show > .btn-secondary.dropdown-toggle:focus {
-  -webkit-box-shadow: 0 0 0 0.25rem rgba(83, 87, 199, 0.5);
-  box-shadow: 0 0 0 0.25rem rgba(83, 87, 199, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(248, 205, 87, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(248, 205, 87, 0.5);
 }
 
 /* line 65, src/assets/scss/mixins/_buttons.scss */
@@ -4303,8 +4303,8 @@ fieldset:disabled .btn {
 /* line 91, src/assets/scss/mixins/_buttons.scss */
 .btn-check:focus + .btn-outline-secondary,
 .btn-outline-secondary:focus {
-  -webkit-box-shadow: 0 0 0 0.25rem rgba(98, 102, 234, 0.5);
-  box-shadow: 0 0 0 0.25rem rgba(98, 102, 234, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
 }
 
 /* line 96, src/assets/scss/mixins/_buttons.scss */
@@ -4324,8 +4324,8 @@ fieldset:disabled .btn {
 .btn-outline-secondary:active:focus,
 .btn-outline-secondary.active:focus,
 .btn-outline-secondary.dropdown-toggle.show:focus {
-  -webkit-box-shadow: 0 0 0 0.25rem rgba(98, 102, 234, 0.5);
-  box-shadow: 0 0 0 0.25rem rgba(98, 102, 234, 0.5);
+  -webkit-box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
 }
 
 /* line 115, src/assets/scss/mixins/_buttons.scss */
