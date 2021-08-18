@@ -58,7 +58,7 @@ sup {
 }
 :root {
   --bs-blue: #0d6efd;
-  --bs-indigo: #6610f2;
+  --bs-indigo: #f2bd10;
   --bs-purple: #de8d56;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
@@ -3585,7 +3585,7 @@ fieldset:disabled .btn {
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #35289b;
+  color: #9b6528;
 }
 .btn-link.disabled,
 .btn-link:disabled {
